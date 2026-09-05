@@ -1,2 +1,2 @@
 # Lab3-GitHubTutorial-
-Repository created for CSC221 Lab3 2026FA
+Repository created for CSC221 Lab3 2023SP
